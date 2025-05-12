@@ -1,0 +1,39 @@
+# Gradle files
+.gradle/
+**/build/
+!gradle-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+*.iws
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/kotlinc.xml
+.idea/tasks.xml
+
+# Local configuration file
+local.properties
+
+# OS junk
+.DS_Store
+*.swp
+
+# Log files
+*.log
+
+# Android Studio generated files
+captures/
+output.json
+
+# Unit test reports
+test-results/
+test-report/
+
+# Others
+*.keystore
+*.jks
